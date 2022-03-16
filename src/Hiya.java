@@ -9,12 +9,22 @@ public class Hiya {
 
         for(int i = 0; i<5; i++){ System.out.print(hi + " ");}
 
-        System.out.print("Can you see this Caleb?? :eyes:");
+        System.out.print("Can you see this?? :eyes:");
         
         System.out.println("Does this work?");
         System.out.println("Yeah!!");
-        WOOOOO HYPE
-        Systme
+
+        System.out.println("Please enter true or false");
+
+        
+        boolean pog = input.nextBoolean();
+        while (pog == true)
+            System.out.println("poggies");
+
+        
+        
+
+        
 
     }
 }
