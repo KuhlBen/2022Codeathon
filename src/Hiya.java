@@ -18,8 +18,9 @@ public class Hiya {
 
         
         boolean pog = input.nextBoolean();
-        while (pog == true)
+        if (pog == true)
             System.out.println("poggies");
+            
 
         
         
